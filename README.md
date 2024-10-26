@@ -29,3 +29,16 @@ BaiduYun backup link in case your github is very slow (common in China): [here](
 希望您喜欢本书。
 
 本代码的百度云备份（如果您的github速度非常慢）[下载链接](https://pan.baidu.com/s/1XQwpnDb3BOvxXZhL-03p3w).
+
+
+
+## 各章节内容说明
+
+- **3rdparty**: 存放第三方库
+- **ch2**: 学习 CMake，初识 SLAM
+- **ch3**: 学习 Eigen 与 Pangolin 库，包括 Pangolin 的可视化
+- **ch4**: 学习李代数运算库 Sophus 的使用
+- **ch5**: OpenCV 库的使用、RGBD 深度相机数据生成点云并进行可视化、双目相机构建深度图与点云 **(StereoSGBM)**
+
+
+---
